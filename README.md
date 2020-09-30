@@ -9,3 +9,4 @@ Describe what's in the repo awesomeness?
 # What's in here?
 
 * script.sh - Cool script that echo's something
+  Awesome script
