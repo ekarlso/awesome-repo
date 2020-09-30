@@ -2,6 +2,6 @@
 
 This is a demo to showcase the git flow...
 
-# Why?
+# What is?
 
 Describe what's in the repo?
